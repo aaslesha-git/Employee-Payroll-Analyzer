@@ -1,0 +1,6 @@
+{
+  "name": "Employee Payroll Analyzer",
+  "description": "Enterprise payroll analysis and employee management system with complete Java 8 Servlet/JSP Maven WAR project for Apache Tomcat 9.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
